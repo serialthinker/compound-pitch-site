@@ -1,1 +1,0 @@
-import React from "react"; import ReactDOM from "react-dom"; import CompoundPitchSite from "./CompoundPitchSite"; ReactDOM.render(<CompoundPitchSite />, document.getElementById("root"));
